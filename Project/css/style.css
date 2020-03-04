@@ -1,0 +1,132 @@
+body{
+    text-align: center;
+    margin: 0px;
+}
+
+.container-fluid
+{
+    padding: 0px;
+}
+
+.navbar{
+
+    padding:2rem;
+    color: white;
+}
+.navbar-nav
+{
+    padding: 20px;
+}
+
+.ABHI
+{
+    color: red;
+}
+.ii
+{
+    background-color: #ef8172;
+    padding: 5% 0%;
+}
+
+.main-header
+{
+    color: brown;
+    padding: 10px;
+}
+
+.imgo
+{
+    height:10rem;
+    width: 10rem;
+}
+
+.intro-para
+{
+    color: white;
+    font-size: 1.5rem;
+}
+
+.COR
+{
+    padding: 30px;
+    text-align: center;
+    background-color: wheat;
+}
+
+.lab
+{
+    padding:10px;
+    color: tomato;
+}
+
+.e
+{
+    margin: 1rem;
+}
+
+.imo
+{
+    height: 50%;
+    width: 50%;
+}
+
+.col-md-4
+{
+    padding: 10px;
+}
+
+.fofo
+{
+    padding: 30px;
+    background-color: antiquewhite;
+    color: darkgoldenrod;
+}
+
+.feat
+{
+    color: brown;
+}
+
+.goto
+{
+    padding: 15px 0px;
+    background-color: sandybrown;
+}
+
+.ioio
+{
+    width: 15%;
+    height: 10%;
+    border-radius: 100%;
+    margin: 15px;
+}
+
+.carousel-item
+{
+   padding: 20px;
+
+}
+
+.name
+{
+    color: maroon;
+}
+.rev
+{
+    color: white;
+}
+
+#footer
+{
+    padding:5%
+}
+
+.fab
+{
+    padding: 10px;
+}
+
+.far
+{
+    padding: 10px;
+}
