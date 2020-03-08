@@ -6,6 +6,7 @@ body{
 .container-fluid
 {
     padding: 0px;
+    margin:0px;
 }
 
 .navbar{
@@ -48,7 +49,7 @@ body{
 
 .COR
 {
-    padding: 30px;
+    padding: 5%;
     text-align: center;
     background-color: wheat;
 }
